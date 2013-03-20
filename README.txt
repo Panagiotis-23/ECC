@@ -22,4 +22,4 @@ five percent of M, where M = mean([size(template,1), size(template,2)]).
 You might want to include the whole template area, so edit the ecc.m
 file and set the "margin" variable equal to zero.
 
-EXTRA LINE
+EXTRA LINE 1
